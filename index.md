@@ -42,6 +42,22 @@ Strategic Intervention
 
 ---
 
+# Elite Think Tank Visual Framework
+
+## Master Strategic Architecture
+![Strategic Architecture](assets/strategic-architecture-master.svg)
+
+## Elite Think Tank Mastery Journey (0 → 6000)
+![Journey 6000](assets/mastery-journey-6000.svg)
+
+## Extended Strategic Intelligence Journey (0 → 10000)
+![Journey 10000](assets/mastery-journey-10000.svg)
+
+## My Personal Journey
+![Personal Journey](assets/personal-journey.svg)
+
+---
+
 # Sections
 
 ## Foundations
