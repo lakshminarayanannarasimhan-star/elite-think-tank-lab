@@ -29,8 +29,16 @@ Strategic Intervention
 
 ---
 
+# Elite Think Tank Visual Maps
+
 ## Strategic Systems Map
-[View the Systems Map](systems-map.md)
+![Strategic Systems Map](assets/strategic-systems-map.svg)
+
+## Strategic Intelligence Map
+![Strategic Intelligence Map](assets/strategic-intelligence-map.svg)
+
+## Strategic Knowledge Graph
+![Strategic Knowledge Graph](assets/strategic-knowledge-graph.svg)
 
 ---
 
