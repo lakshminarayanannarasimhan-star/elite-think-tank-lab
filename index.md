@@ -1,34 +1,53 @@
-# Elite Think Tank Lab
 
-## Causal Systems Diagnostics
+# Elite Think Tank Knowledge Portal
 
-Framework structure:
+Welcome to the **Elite Think Tank Lab**.
 
-Events → Mechanisms → Archetypes → Behavior → Strategy → Foresight
+This project develops a structured methodology for understanding complex systems such as:
 
-## Sections
+- organizations
+- technology platforms
+- markets
+- infrastructure systems
+- ecosystems
 
-### Foundations
-- [Systems Thinking Primer](foundations/systems-thinking-primer.md)
-- [First Principles Thinking](foundations/first-principles-thinking.md)
+---
 
-### Mechanisms
-- [Causal Mechanism Library](mechanisms/causal-mechanism-library.md)
-- [Mechanism to Archetype Map](mechanisms/mechanism-to-archetype-map.md)
+# Framework Architecture
 
-### Archetypes
-- [System Archetype Library](archetypes/system-archetype-library.md)
-- [Archetype Diagrams](archetypes/system-archetype-diagrams.md)
+Events  
+↓  
+Causal Mechanisms  
+↓  
+System Archetypes  
+↓  
+System Behavior  
+↓  
+Strategic Diagnosis  
+↓  
+Strategic Intervention  
 
-### System Diagnosis
-- [Diagnosis Methodology](systems-diagnosis/diagnosis-methodology.md)
-- [Leverage Points](systems-diagnosis/leverage-points-in-systems.md)
+---
 
-### Strategy
-- [Strategic Thinking](strategy/strategic-thinking.md)
-- [Blue Ocean Thinking](strategy/blue-ocean-thinking.md)
+# Sections
 
-### Training
-- [Strategic Thinking Program](training/strategic-thinking-program.md)
-- [Drill Library](training/drill-library.md)
-- [Drill Dashboard](training/drill-progress-dashboard.md)
+## Foundations
+Introduction to systems thinking principles.
+
+## Mechanisms
+Structural forces that drive system behavior.
+
+## Archetypes
+Recurring patterns in complex systems.
+
+## Leverage Points
+Locations in systems where small changes produce large effects.
+
+## Strategic Patterns
+Recurring dynamics in markets and organizations.
+
+## Diagnosis Playbook
+Step‑by‑step method for diagnosing systems.
+
+## Training Program
+6000‑drill cognitive training program.
