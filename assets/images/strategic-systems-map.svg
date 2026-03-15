@@ -1,0 +1,44 @@
+
+<svg width="900" height="700" xmlns="http://www.w3.org/2000/svg">
+<style>
+.box { fill:#0f172a; stroke:#38bdf8; stroke-width:2; rx:10; ry:10; }
+.text { fill:white; font-family:Arial, Helvetica, sans-serif; font-size:16px; text-anchor:middle; dominant-baseline:middle;}
+.arrow { stroke:#38bdf8; stroke-width:2; marker-end:url(#arrowhead); }
+.title { fill:#22c55e; font-size:28px; font-family:Arial, Helvetica, sans-serif; text-anchor:middle; }
+</style>
+
+<defs>
+<marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+  <polygon points="0 0, 10 3.5, 0 7" fill="#38bdf8"/>
+</marker>
+</defs>
+
+<text x="450" y="40" class="title">Strategic Systems Map</text>
+
+<!-- Boxes -->
+<rect x="250" y="80" width="400" height="60" class="box"/>
+<text x="450" y="110" class="text">Observable Outcomes</text>
+
+<rect x="250" y="170" width="400" height="60" class="box"/>
+<text x="450" y="200" class="text">Strategic Patterns</text>
+
+<rect x="250" y="260" width="400" height="60" class="box"/>
+<text x="450" y="290" class="text">System Archetypes</text>
+
+<rect x="250" y="350" width="400" height="60" class="box"/>
+<text x="450" y="380" class="text">Causal Mechanisms</text>
+
+<rect x="250" y="440" width="400" height="60" class="box"/>
+<text x="450" y="470" class="text">System Structure</text>
+
+<rect x="250" y="530" width="400" height="60" class="box"/>
+<text x="450" y="560" class="text">Leverage Points & Strategic Intervention</text>
+
+<!-- Arrows -->
+<line x1="450" y1="140" x2="450" y2="170" class="arrow"/>
+<line x1="450" y1="230" x2="450" y2="260" class="arrow"/>
+<line x1="450" y1="320" x2="450" y2="350" class="arrow"/>
+<line x1="450" y1="410" x2="450" y2="440" class="arrow"/>
+<line x1="450" y1="500" x2="450" y2="530" class="arrow"/>
+
+</svg>
