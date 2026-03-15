@@ -1,2 +1,2 @@
 # Elite Think Tank Program
-Total drills: 6000.
+6000 drills training roadmap.

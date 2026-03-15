@@ -3,32 +3,28 @@
 
 A strategic systems thinking framework for diagnosing complex systems.
 
----
-
 ## Strategic Architecture
 
-![Architecture](assets/strategic-architecture-master.svg)
-
----
+![Architecture](assets/strategic-architecture.svg)
 
 ## Mastery Journey
 
-![Journey 6000](assets/mastery-journey-6000.svg)
-
-### Extended Journey
-
-![Journey 10000](assets/mastery-journey-10000.svg)
-
-### My Journey
-
-![Personal](assets/personal-journey.svg)
+![Journey](assets/mastery-journey.svg)
 
 ---
 
-## Framework Components
+## Framework Layers
 
-- 50 Causal Mechanisms
-- 15 System Archetypes
-- 30 Strategic Patterns
-- 12 Leverage Points
-- 6000 Cognitive Training Drills
+1. Mechanisms (50)
+2. System Archetypes
+3. Strategic Patterns
+4. Leverage Points
+5. Strategic Interventions
+
+---
+
+## Knowledge Libraries
+
+- Mechanism → Archetype Mapping
+- Archetype → Intervention Playbook
+- Strategic Pattern Library

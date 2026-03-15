@@ -1,2 +1,2 @@
 # 2026 Progress
-Drills completed: ~1755.
+~1755 drills completed.
