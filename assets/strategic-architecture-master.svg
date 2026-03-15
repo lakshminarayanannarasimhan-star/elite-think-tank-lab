@@ -1,0 +1,32 @@
+
+<svg width="1200" height="650" xmlns="http://www.w3.org/2000/svg">
+<style>
+.title{font-size:28px;font-family:Arial;text-anchor:middle}
+.box{fill:#0f172a;stroke:#38bdf8;stroke-width:2;rx:10;ry:10}
+.text{fill:white;font-size:14px;font-family:Arial;text-anchor:middle;dominant-baseline:middle}
+.arrow{stroke:#38bdf8;stroke-width:2}
+</style>
+
+<text x="600" y="60" class="title">Elite Think Tank Strategic Architecture</text>
+
+<rect x="350" y="120" width="500" height="60" class="box"/>
+<text x="600" y="150" class="text">Strategic Patterns (30)</text>
+
+<rect x="350" y="220" width="500" height="60" class="box"/>
+<text x="600" y="250" class="text">System Archetypes (15)</text>
+
+<rect x="350" y="320" width="500" height="60" class="box"/>
+<text x="600" y="350" class="text">Causal Mechanisms (50)</text>
+
+<rect x="350" y="420" width="500" height="60" class="box"/>
+<text x="600" y="450" class="text">Leverage Points (12)</text>
+
+<rect x="350" y="520" width="500" height="60" class="box"/>
+<text x="600" y="550" class="text">6000 Drill Cognitive Training System</text>
+
+<line x1="600" y1="180" x2="600" y2="220" class="arrow"/>
+<line x1="600" y1="280" x2="600" y2="320" class="arrow"/>
+<line x1="600" y1="380" x2="600" y2="420" class="arrow"/>
+<line x1="600" y1="480" x2="600" y2="520" class="arrow"/>
+
+</svg>

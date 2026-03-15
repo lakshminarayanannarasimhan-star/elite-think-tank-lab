@@ -1,0 +1,18 @@
+
+<svg width="1200" height="420" xmlns="http://www.w3.org/2000/svg">
+<style>
+.title{font-size:26px;font-family:Arial;text-anchor:middle}
+.line{stroke:#64748b;stroke-width:3}
+.node{fill:#1e293b;stroke:#22c55e;stroke-width:2}
+.marker{fill:#ef4444}
+.label{font-size:12px;font-family:Arial;text-anchor:middle}
+</style>
+
+<text x="600" y="50" class="title">My Personal Think Tank Journey</text>
+
+<line x1="100" y1="250" x2="1100" y2="250" class="line"/>
+
+<circle cx="400" cy="250" r="10" class="marker"/>
+<text x="400" y="210" class="label">~1755 Drills</text>
+
+</svg>

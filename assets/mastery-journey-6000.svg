@@ -1,0 +1,41 @@
+
+<svg width="1200" height="420" xmlns="http://www.w3.org/2000/svg">
+<style>
+.title{font-size:26px;font-family:Arial;text-anchor:middle}
+.line{stroke:#64748b;stroke-width:3}
+.tick{stroke:#94a3b8;stroke-width:2}
+.node{fill:#1e293b;stroke:#22c55e;stroke-width:2}
+.label{font-size:12px;font-family:Arial;text-anchor:middle}
+.stage{font-size:12px;font-family:Arial;text-anchor:middle}
+</style>
+
+<text x="600" y="50" class="title">Elite Think Tank Mastery Journey (0 → 6000 Drills)</text>
+
+<line x1="100" y1="250" x2="1100" y2="250" class="line"/>
+
+<!-- Milestones -->
+<circle cx="100" cy="250" r="8" class="node"/>
+<text x="100" y="280" class="label">0</text>
+<text x="100" y="220" class="stage">Event Thinking</text>
+
+<circle cx="220" cy="250" r="8" class="node"/>
+<text x="220" y="280" class="label">500</text>
+<text x="220" y="220" class="stage">Mechanism Fluency</text>
+
+<circle cx="400" cy="250" r="8" class="node"/>
+<text x="400" y="280" class="label">1500</text>
+<text x="400" y="220" class="stage">Archetype Recognition</text>
+
+<circle cx="650" cy="250" r="8" class="node"/>
+<text x="650" y="280" class="label">3000</text>
+<text x="650" y="220" class="stage">Structural Diagnosis</text>
+
+<circle cx="900" cy="250" r="8" class="node"/>
+<text x="900" y="280" class="label">4500</text>
+<text x="900" y="220" class="stage">Strategic Patterns</text>
+
+<circle cx="1100" cy="250" r="8" class="node"/>
+<text x="1100" y="280" class="label">6000</text>
+<text x="1100" y="220" class="stage">Systems Mastery</text>
+
+</svg>
