@@ -29,6 +29,11 @@ Strategic Intervention
 
 ---
 
+## Strategic Systems Map
+[View the Systems Map](systems-map.md)
+
+---
+
 # Sections
 
 ## Foundations
@@ -51,3 +56,4 @@ Step‑by‑step method for diagnosing systems.
 
 ## Training Program
 6000‑drill cognitive training program.
+
