@@ -23,6 +23,12 @@ A strategic systems thinking framework for diagnosing complex systems.
 
 ---
 
+## Training Dashboard
+
+[View Dashboard](dashboard.md)
+
+---
+
 ## Knowledge Libraries
 
 - Mechanism → Archetype Mapping
