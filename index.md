@@ -25,9 +25,9 @@ A strategic systems thinking framework for diagnosing complex systems.
 
 ## Training Dashboard
 
-[View Dashboard](progress/dashboard.md)
-[View Weekly Dashboard](progress/weekly-progress.md)
-[View Drill Dashboard](progress/drill-history.md)
+[View Dashboard](progress/dashboard.md)\
+[View Weekly Dashboard](progress/weekly-progress.md)\
+[View Drill Dashboard](progress/drill-history.md)\
 
 ---
 
